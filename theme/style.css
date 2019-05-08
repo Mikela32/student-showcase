@@ -16,3 +16,17 @@
 }
 
 /* style your grid sections here!  */
+
+#Sosa{
+  background: -moz-element(green);
+  background-clip: padding-box;
+  justify-content: flex-start;
+  max-width: ;
+
+}
+
+#list{
+  font-display: bold ; 
+  font-stretch: ultra-expanded; 
+  font-size: 25px;
+}
